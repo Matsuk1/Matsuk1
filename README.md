@@ -21,11 +21,6 @@ I love crafting small universes with code — from bots to full web systems — 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matsuk1&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="assets/github-contribution-grid-snake.svg" />
-</picture>
 ---
 
 ## 🧬 Projects I’m Working On
